@@ -1,8 +1,6 @@
 // main.rs
 // Jordan Campbell
 // 24.10.2020
-// https://learning-rust.github.io/docs/a3.hello_world.html
-// https://doc.rust-lang.org/rustc/command-line-arguments.html
 // ❯ rustc main.rs
 // ❯ ./main
 
